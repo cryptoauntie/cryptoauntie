@@ -2,7 +2,7 @@
 
 ## 🧙‍♀️ Web3 Security Researcher & Smart Contract Auditor  
 
-### *Helping to keep Web3 safe—one smart contract at a time!*  
+### *Helping keep Web3 safe — one smart contract at a time!*  
 
 ---
 
@@ -11,7 +11,7 @@
 
 🔍 **What I’m Working On:**  
 - Making blockchain security a little less scary 👻  
-- Sharing best practices to keep Web3 builders protected   
+- Sharing best practices to keep Web3 projects protected   
 - Providing security insights and project management for Web3 teams  
 
 🚀 **Open to Collaborations:**  
